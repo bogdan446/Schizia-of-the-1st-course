@@ -53,11 +53,10 @@ E₂ = ? (поза пластинами)
 а) E₁ = 170 В/м (між пластинами)
 б) E₂ = 395 В/м (поза пластинами)
 
-
-
  
 
 
+ 
 ## *Задача №54* (ChatGPT)
 ### Prompt
 
@@ -68,12 +67,10 @@ E₂ = ? (поза пластинами)
 
 https://chatgpt.com/share/67360a13-5bc0-8010-bef9-6a735ea9fe6f
 
-
-
-
  
 
 
+ 
 ## *Задача №60* (ChatGPT)
 ### Prompt
 
@@ -84,12 +81,10 @@ https://chatgpt.com/share/67360a13-5bc0-8010-bef9-6a735ea9fe6f
 
 https://chatgpt.com/share/67360bc2-1d10-8010-9df1-631b53445293 - *μ = мк*
 
-
  
 
 
  
-
 ## *Задача №62* (Claude)
 ### Prompt
 
@@ -162,11 +157,10 @@ k = 9·10⁹ Н·м²/Кл² (стала Кулона)
 
 https://chatgpt.com/share/6735fc56-98d8-8010-aeec-e7e4210ed126
 
-
  
 
 
-
+ 
 ## *Задача №103* (ChatGPT)
 ### Prompt
 
@@ -177,10 +171,10 @@ https://chatgpt.com/share/6735fc56-98d8-8010-aeec-e7e4210ed126
 
 https://chatgpt.com/share/6735ff68-01fc-8010-84cb-6b03978b3cfc
 
-
  
 
 
+ 
 ## *Задача №151* (ChatGPT)
 ### Prompt
 
@@ -191,11 +185,10 @@ https://chatgpt.com/share/6735ff68-01fc-8010-84cb-6b03978b3cfc
 
 https://chatgpt.com/share/67360264-e368-8010-b813-9e6709b5cb81
 
-
-
  
 
 
+ 
 ## *Задача №152* (ChatGPT)
 ### Prompt
 
